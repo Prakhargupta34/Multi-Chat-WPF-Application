@@ -1,0 +1,15 @@
+C:\Users\pgupta\source\repos\Client\Client\bin\Debug\Client.exe.config
+C:\Users\pgupta\source\repos\Client\Client\bin\Debug\Client.exe
+C:\Users\pgupta\source\repos\Client\Client\bin\Debug\Client.pdb
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\MainWindow.g.cs
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\App.g.cs
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\Client_MarkupCompile.cache
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\Client_MarkupCompile.lref
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\MainWindow.baml
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\Client.g.resources
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\Client.exe
+C:\Users\pgupta\source\repos\Client\Client\obj\Debug\Client.pdb
